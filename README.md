@@ -86,3 +86,5 @@ frankenphp php-cli /path/to/your/script.php
 * [Drupal](https://github.com/dunglas/frankenphp-drupal)
 * [Joomla](https://github.com/alexandreelise/frankenphp-joomla)
 * [TYPO3](https://github.com/ochorocho/franken-typo3)
+
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20FrankenPHP%20Guru-006BFF)](https://gurubase.io/g/frankenphp)
